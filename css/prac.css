@@ -1,0 +1,21 @@
+
+.blue {
+    background-color: blue;
+
+    height: 100px;
+    width: 100px;
+    right: 10px;
+}
+.red {
+    background-color: red;
+  
+    height: 100px;
+    width: 100px;
+}
+.yellow { 
+    background-color: yellow;
+
+    height: 100px;
+    width: 100px;
+   top: 2px;
+}
