@@ -1,22 +1,45 @@
 * {
-    font-family: monospace;   
+    font-family: 'Raleway', sans-serif;
 }
 body{
     margin: 0px;
+    text-align: center;
 }
 h1 {
+    font-family: 'Sacramento', cursive;
     margin-top: 0px;
+    padding-top: 100px;
+}
+p {
+    font-family: 'Montserrat', sans-serif;
 }
 .top-container {
-    background-color:#d8c292;
+    background-color:#a1cae2;
+    position: relative;
+    padding-top: 100px;
 }
 .middle-container {
-    background-color: #5b5b5b ;
-    height: 200px;
-    width: 200px;
+
 }
 .bottom-container {
-    background-color: #b67171;
-    height: 200px;
-    width: 200px;
+
+}
+.bc {
+    position: absolute;
+    left: 400px;
+    bottom: 300px;
+}
+.tc {
+    position: absolute;
+   right: 450px;
+   margin-bottom: 25px;
+}
+h2 {
+    font-family: 'Montserrat', sans-serif;
+}
+h3 {
+    font-family: 'Montserrat', sans-serif;
+}
+.pro {
+    text-decoration: underline;
 }
