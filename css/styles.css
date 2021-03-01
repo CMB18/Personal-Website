@@ -38,7 +38,7 @@ p {
 }
 .bottom-container {
     background-color: #c19065;
-    padding-bottom: 25px;
+    padding-bottom: 20px;
     padding-top: 25px;
     margin-top: 35px;
 
@@ -127,4 +127,12 @@ hr {
     background-image: -o-linear-gradient(top, #c76868, #e08989);
     background-image: linear-gradient(to bottom, #c76868, #e08989);
     text-decoration: none;
+  }
+  a {
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+  }
+  a:hover {
+      text-decoration: underline;
   }
