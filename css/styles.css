@@ -38,8 +38,8 @@ p {
 }
 .bottom-container {
     background-color: #c19065;
-    padding-bottom: 20px;
-    padding-top: 25px;
+    padding-bottom: 16px;
+    padding-top: 45px;
     margin-top: 35px;
 
 }
@@ -135,4 +135,9 @@ hr {
   }
   a:hover {
       text-decoration: underline;
+      color: #e08989;
+  }
+  .cr {
+    font-size: .75rem;
+    padding: 35px 0px;
   }
